@@ -1,17 +1,18 @@
-body{ 
+body { 
 	text-align: center;
 	background: #ccd9ff
 }
 
-#LOGO{
+#LOGO {
+	width: 100%;
+
+}
+
+#COLLOR {
 	width: 100%;
 }
 
-#COLLOR{
-	width: 100%;
-}
-
-h1{ 
+h1 { 
 	text-align: center;
 	background: #b3c6ff
 }
@@ -19,4 +20,7 @@ h1{
 em { 
 	color: #009973
 }
-	
+
+.itens{	
+	font-style: italic;
+}
