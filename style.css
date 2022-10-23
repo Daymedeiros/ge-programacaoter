@@ -7,12 +7,16 @@ body {
 	width: 85%;
 
 }
+#LOGO {
+	height: 100%;
 
-#COLLOR {
-	width: 100%;
-	
 }
 
+#COLLOR {
+	width: 100%;	
+}
+#COLLOR {
+	height: 100%;
 h1 { 
 	text-align: center;
 	background: #b3c6ff
