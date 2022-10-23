@@ -4,12 +4,15 @@ body {
 }
 
 #LOGO {
-	width: 75%;
+	width: 80%;
+	height:50%;
+	
 
 }
 
 #COLLOR {
 	width: 100%;
+	height:50%;
 }
 
 h1 { 
